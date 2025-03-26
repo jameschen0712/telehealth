@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Vite
+dist/
+.vite/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
