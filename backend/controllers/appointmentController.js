@@ -1,4 +1,4 @@
-import pool from '../db.js';
+import { pool } from '../db.js';
 
 export async function bookAppointment(req, res) {
   const { doctor_name, appointment_time } = req.body;

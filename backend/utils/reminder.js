@@ -1,5 +1,5 @@
 import cron from 'node-cron';
-import pool from '../db.js';
+import { pool } from '../db.js';
 import dayjs from 'dayjs';
 
 cron.schedule('0 8 * * *', async () => {
