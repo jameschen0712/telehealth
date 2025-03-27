@@ -11,10 +11,10 @@
 
 ## 📁 專案結構
 
-telehealth/ 
-├── backend/ # Node.js + Express 後端 
-├── frontend/ # Vue 3 + Vite 前端 
-├── init.sql # 初始資料表 + 測試帳號 
-├── .env # 後端 DB 設定 
-├── .gitignore 
+telehealth/   
+├── backend/ # Node.js + Express 後端   
+├── frontend/ # Vue 3 + Vite 前端   
+├── init.sql # 初始資料表 + 測試帳號   
+├── .env # 後端 DB 設定   
+├── .gitignore   
 └── README.md
